@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.hero {
+    background-image: url(../img/consult2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.services-hero {
+    background-image: url(../img/people4.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(16, 145, 177, 0.8);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+}
+.hero-text {
+    padding-top: 8rem;
+}
+.button {
+    padding: 10px 30px;
+    margin-top: 1rem;
+}
+
+.main-features {
+    padding: 7rem;
+}
+.back1{
+    background-color: #19191a86;
+}
+.back1:hover {
+    background-color: #0D6EFD;
+    color: white;
+}
+.base1 {
+    width: 70%;
+}
+
+.testimony {
+    background-image: url(../img/meeting3.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(50, 19, 190, 0.5);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.change-my-color {
+    fill: #0D6EFD;
+}
+.back2{
+    background-color: white;
+    
+}
+.back2:hover {
+    background-color: #0D6EFD;
+    color: white;
+    fill: red;
+    
+}
+.fonts {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
