@@ -8,13 +8,14 @@
 
 .hero {
     background-image: url(../img/consult2.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(23, 24, 24, 0.63);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .services-hero {
     background-image: url(../img/people4.jpg);
-    box-shadow: inset 0 0 0 2000px rgba(16, 145, 177, 0.8);
+    box-shadow: inset 0 0 0 2000px rgba(27, 16, 177, 0.418);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
