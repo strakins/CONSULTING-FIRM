@@ -4,7 +4,31 @@
     box-sizing: border-box;
 }
 
+.navi-text1{
+    line-height: 1.3rem;
+    font-family: 'Playfair Display';
+}
+.navi-text {
+    font-size: 0.8rem;
+    color: black;
+    letter-spacing: 0.1rem;
+    font-family: 'Playfair Display';
+    padding-left: 10px;
+}
 
+.text2 {
+    font-family: 'Playfair Display';
+    letter-spacing: 0.2rem;
+}
+
+.text3 {
+    font-family: 'Playfair Display';
+    letter-spacing: 0.1rem;
+}
+
+.text4 {
+    font-family: 'Oswald', sans-serif;
+}
 
 .hero {
     background-image: url(../img/consult2.jpg);
