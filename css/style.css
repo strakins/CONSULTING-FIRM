@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 .navi-text1{
     line-height: 1.3rem;
     font-family: 'Playfair Display';
@@ -15,6 +14,10 @@
     letter-spacing: 0.1rem;
     font-family: 'Playfair Display';
     padding-left: 10px;
+}
+.whatsapp{
+    height: 28px;
+    width: 28px;
 }
 
 .text2 {
@@ -107,12 +110,4 @@
         margin-top: 0.5rem;
     }
     
-    /* .hero-text{
-        margin-left: 0.5em;
-    }
-    .button {
-        padding: 7px 15px;
-        margin-top: 0.5em;
-    } */
-
 }
